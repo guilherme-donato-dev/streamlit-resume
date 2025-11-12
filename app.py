@@ -14,7 +14,7 @@ st.write("Cole a URL de um artigo ou notícia abaixo e clique em 'Resumir' para 
 # --- URL da nossa API Django ---
 # Este é o "telefone" que o Streamlit vai usar para "ligar" para o seu back-end.
 # IMPORTANTE: A API Django DEVE estar rodando para isso funcionar.
-API_URL = "http://127.0.0.1:8000/api/summarize/"
+API_URL = "https://api-resume-znyg.onrender.com/api/summarize/"
 
 # --- Interface do Usuário ---
 
